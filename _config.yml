@@ -29,9 +29,9 @@ sass:
 disqus_shortname:   felipejor
 
 # Navigation Bar
-about:  false
-posts:  false
-projects:   false
+#about:  true
+#posts:  true
+#projects:   true
 
 # Social
 # if you don't have any of social below, comment the line.
