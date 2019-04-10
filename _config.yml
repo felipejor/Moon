@@ -12,7 +12,8 @@ url:                https://felipejor.github.io
 
 # Collections
 collections:
-  positions
+  positions:
+    output: true
 
 # Jekyll
 permalink:          /:title/
