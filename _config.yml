@@ -10,6 +10,10 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://felipejor.github.io
 
+# Collections
+collections:
+  positions
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
