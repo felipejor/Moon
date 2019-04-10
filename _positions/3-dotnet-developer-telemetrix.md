@@ -6,7 +6,7 @@ location: "Curitiba/PR"
 initial_date:   2012-11-01
 final_date: 2014-12-01
 excerpt: "Developed and maintained .NET applications."
-feature: assets/img/charts-computer-data-669615.jpg
+feature: assets/img/netdev-telemetrix.jpg
 tag:
 - career
 - about

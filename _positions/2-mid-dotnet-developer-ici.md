@@ -6,7 +6,7 @@ location: "Curitiba/PR"
 initial_date:   2015-02-01
 final_date: 2016-06-01
 excerpt: "Developed and maintained .NET applications."
-feature: assets/img/buildings-1839726_1920.jpg
+feature: assets/img/netdev-ici.jpg
 tag:
 - career
 - about

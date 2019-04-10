@@ -6,7 +6,7 @@ location: "Curitiba/PR"
 initial_date:   2011-06-01
 final_date: 2012-03-01
 excerpt: "Technical support to end users."
-feature: assets/img/olav-ahrens-rotne-1100599-unsplash.jpg
+feature: assets/img/support-positivo.jpg
 tag:
 - career
 - about
