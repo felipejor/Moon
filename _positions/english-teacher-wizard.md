@@ -4,7 +4,7 @@ title:  "English Teacher"
 company: "Wizard Language Education Center"
 location: "Campo Grande/MS"
 initial_date:   2011-01-01
-final_date: 2011-01-06
+final_date: 2011-06-01
 excerpt: "Taught English to entry, middle and advanced levels."
 feature: assets/img/english-teacher.jpg
 tag:
