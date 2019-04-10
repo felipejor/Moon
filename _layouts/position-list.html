@@ -25,7 +25,7 @@ layout: compress
                     {% for position in site.positions %} 
                         <ul>
                             <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                                <a class="zoombtn" href="{{ site.url }}{{ position.url }}">{{ position.title }}</a>
+                                <a class="zoombtn" href="{{ site.url }}{{ position.url }}">{{ position.title }} - {{ position.company }}</a>
                                 <p>{{ position.excerpt }}</p>
                                 <a href="{{ site.url }}{{ position.url }}" class="btn zoombtn">Read More</a>
                             </li>
