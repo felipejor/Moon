@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "English Teacher - Wizard Language Education Center"
-initial_date:   2011-01-01
-final_date:   2011-01-01
+date:   2011-01-01
 excerpt: "Taught English to entry, middle and advanced levels."
 feature: assets/img/english-teacher.jpg
 tag:
