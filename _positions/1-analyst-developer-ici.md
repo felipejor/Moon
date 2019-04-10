@@ -6,7 +6,7 @@ location: "Curitiba/PR"
 initial_date:   2016-08-01
 final_date: 2017-04-01
 excerpt: "Managed a team of two developers, maintained .NET applications."
-feature: assets/img/ganalyst-ici.jpg
+feature: assets/img/analyst-ici.jpg
 tag:
 - career
 - about
